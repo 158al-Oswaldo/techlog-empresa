@@ -1,6 +1,6 @@
 # TechLog — Site Institucional
 
-Site institucional de empresa fictícia desenvolvido como atividade prática do **Curso Técnico em Desenvolvimento de Sistemas** (ETEC / Centro Paula Souza), nas disciplinas de **Desenvolvimento Web I** — Agendas 15 e 16.
+Site institucional de empresa fictícia desenvolvido como atividade prática do **Curso Técnico em Desenvolvimento de Sistemas** (ETEC / Centro Paula Souza)
 
 ---
 
